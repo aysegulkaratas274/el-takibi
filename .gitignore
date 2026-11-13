@@ -1,0 +1,13 @@
+# Sanal ortam (herkes kendi bilgisayarında kurar)
+.venv/
+venv/
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+
+# Editör / sistem dosyaları
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

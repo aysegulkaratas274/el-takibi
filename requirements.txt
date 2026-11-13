@@ -1,0 +1,6 @@
+# Python 3.12 ile kullanın (mediapipe, Python 3.15'i henüz desteklemiyor)
+# mediapipe, opencv'nin tam sürümünü (opencv-contrib-python) kendisi kurar,
+# bu yüzden "import cv2" ayrıca opencv-python kurmadan çalışır.
+mediapipe==1.2.3
+# Ekrana Türkçe karakterli yazı için (mediapipe ile birlikte zaten gelir)
+pillow
